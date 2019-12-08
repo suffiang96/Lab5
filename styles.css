@@ -1,1 +1,32 @@
-#mapid { height: 95%; }
+#mapone { height: 80%;
+        width: 100%;
+
+      }
+
+#maptwo { height: 80%;
+         width: 100%;
+
+         }
+
+body {
+       font-family: "Trebuchet MS", Helvetica, sans-serif;
+       background-color: #b0d4e5;
+
+}
+ p1 {float: left;
+      width: 48%;
+    }
+
+ p2 {float: right;
+   height:100%;
+      width: 48%;
+    }
+
+p3 {float: left;
+   width: 48%;
+   }
+
+p4 {float: right;
+  height:100%;
+  width: 48%;
+  }
